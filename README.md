@@ -1,2 +1,1 @@
-# demo
-nai kisu beda
+# demo: this is a test Software engineering project
